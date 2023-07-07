@@ -1,0 +1,10 @@
+resources
+big-pictures
+bayes-theorem
+bayesian-inference-idea
+conjugate-families
+bayes-computation
+grid-approximation
+mcmc-markov-chain-monte-carlo
+bayes-regression
+hierarchical-models

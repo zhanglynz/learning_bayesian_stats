@@ -1,0 +1,16 @@
+output_dir: "docs"
+delete_merged_file: true
+new_session: yes
+rmd_files: [
+  "index.Rmd",
+  "resources.Rmd",
+  "big_pictures.Rmd",
+  "bayes_regression.Rmd",
+  "hierarchical_models.Rmd"
+  
+  
+  
+  
+  
+]
+ 

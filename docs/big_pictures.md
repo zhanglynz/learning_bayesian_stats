@@ -1,0 +1,20 @@
+# Big Pictures
+
+## Bayes' theorem
+
+$$
+P(A|B)=\frac{P(AB)}{P(B)}=\frac{P(B|A)P(A)}{P(B)}
+$$
+
+## Bayesian inference idea
+
+We have a prior (some a probability distribution); then we have data; we use
+the data to **update** the prior to obtain a posterior (another probability distribution). Based on the obtained posterior, we can have all kinds of inferences. 
+
+## Conjugate families
+
+## Bayes computation
+
+### Grid approximation
+
+### MCMC (Markov chain Monte Carlo)
